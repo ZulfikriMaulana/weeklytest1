@@ -34,5 +34,5 @@ func main() {
 	// Contoh penggunaan fungsi
 	words := []string{"this", "is", "a", "konoha"}
 	except := []string{"is", "a"}
-	fmt.Println(capitalize(words, except)) // Output: ["This", "is", "a", "Konoha"]
+	fmt.Println(capitalize(words, except))
 }

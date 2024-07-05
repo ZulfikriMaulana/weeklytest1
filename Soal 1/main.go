@@ -25,6 +25,6 @@ func removeduplicateletter(word string) string {
 
 func main() {
 	// Contoh penggunaan fungsi
-	fmt.Println(removeduplicateletter("bananas"))    // Output: "bans"
-	fmt.Println(removeduplicateletter("lalalamama")) // Output: "lam"
+	fmt.Println(removeduplicateletter("bananasna"))
+	fmt.Println(removeduplicateletter("lalalamama"))
 }

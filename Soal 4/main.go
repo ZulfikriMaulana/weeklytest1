@@ -25,5 +25,5 @@ func removeduplicate(nums []int) []int {
 func main() {
 	// Contoh penggunaan fungsi
 	nums := []int{1, 1, 2, 2, 3, 3, 4, 4, 4}
-	fmt.Println(removeduplicate(nums)) // Output: [1, 2, 3, 4]
+	fmt.Println(removeduplicate(nums))
 }

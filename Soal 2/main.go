@@ -41,7 +41,7 @@ func isanagram(word1 string, word2 string) bool {
 
 func main() {
 	// Contoh penggunaan fungsi
-	fmt.Println(isanagram("Otto", "Toto"))    // Output: true
-	fmt.Println(isanagram("Ayam", "Maya"))    // Output: true
-	fmt.Println(isanagram("Tamat", "Kiamat")) // Output: false
+	fmt.Println(isanagram("Otto", "Toto"))
+	fmt.Println(isanagram("Ayam", "Maya"))
+	fmt.Println(isanagram("Tamat", "Kiamat"))
 }

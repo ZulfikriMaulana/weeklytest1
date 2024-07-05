@@ -29,7 +29,7 @@ func plusone(nums []int) []int {
 
 func main() {
 	// Contoh penggunaan fungsi
-	fmt.Println(plusone([]int{1, 2, 3, 4})) // Output: [1, 2, 3, 5]
-	fmt.Println(plusone([]int{1, 4, 8, 9})) // Output: [1, 4, 9, 0]
-	fmt.Println(plusone([]int{9, 9, 9, 9})) // Output: [1, 0, 0, 0, 0]
+	fmt.Println(plusone([]int{1, 2, 3, 4}))
+	fmt.Println(plusone([]int{1, 4, 8, 9}))
+	fmt.Println(plusone([]int{9, 9, 9, 9}))
 }
